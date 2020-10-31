@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/RinkuVipin/weather-app/static/css/main.4f7e9de1.chunk.css",
+    "main.js": "/RinkuVipin/weather-app/static/js/main.5de421a2.chunk.js",
+    "main.js.map": "/RinkuVipin/weather-app/static/js/main.5de421a2.chunk.js.map",
+    "runtime-main.js": "/RinkuVipin/weather-app/static/js/runtime-main.c5998fc8.js",
+    "runtime-main.js.map": "/RinkuVipin/weather-app/static/js/runtime-main.c5998fc8.js.map",
+    "static/js/2.237b5f20.chunk.js": "/RinkuVipin/weather-app/static/js/2.237b5f20.chunk.js",
+    "static/js/2.237b5f20.chunk.js.map": "/RinkuVipin/weather-app/static/js/2.237b5f20.chunk.js.map",
+    "index.html": "/RinkuVipin/weather-app/index.html",
+    "static/css/main.4f7e9de1.chunk.css.map": "/RinkuVipin/weather-app/static/css/main.4f7e9de1.chunk.css.map",
+    "static/js/2.237b5f20.chunk.js.LICENSE.txt": "/RinkuVipin/weather-app/static/js/2.237b5f20.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/RinkuVipin/weather-app/static/media/warm-bg.a7f83012.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5998fc8.js",
+    "static/js/2.237b5f20.chunk.js",
+    "static/css/main.4f7e9de1.chunk.css",
+    "static/js/main.5de421a2.chunk.js"
+  ]
+}
